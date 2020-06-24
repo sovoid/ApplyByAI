@@ -123,7 +123,6 @@ app.use(async (req, res, next) => {
   return next()
 })
 
-app.use('/users', UserRouter)
 
 app.use('/', IndexRouter)
 app.use('/account', AccountRouter)
@@ -151,6 +150,7 @@ app.use(async (req, res, next) => {
 })
 app.use('/api', ApiRouter)
 
+app.use('/users', UserRouter)
 
 // catch 404 and forward to error handler
 app.use((req, res, next) => {
