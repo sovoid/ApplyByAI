@@ -48,7 +48,7 @@
 
 #### 1. Saves Precious Time
 
-Does your team spend too much time screening candidates? Let it get back to doing what they do best - building the product - and let automation do the tedious work for you.
+Does your team spend too much time screening candidates? Let it get back to doing what they do best - building the product - and let automation do the tedious work for you!
 
 #### 2. Fast and relevant
 
