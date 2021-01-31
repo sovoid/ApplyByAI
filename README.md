@@ -64,6 +64,7 @@ Technical candidates love our platform. Apply-by-AI is not just fast, it is way 
 - [Vidhi Mody](https://github.com/vidhi-mody)
 - [Vrushti Mody](https://github.com/vrushti-mody)
 - [Darshee Machhar](https://github.com/darshee-m)
+- [Pushkar Bhuse](https://github.com/Pushkar-Bhuse)
 
 ### [Video Demo](https://drive.google.com/file/d/1IDnrizsFUQvXgshlC3mi2MEtfuRhRrdx/view?usp=drivesdk)
 
